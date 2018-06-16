@@ -19,7 +19,7 @@ function sayHelloTo(greeting, firstName){
 }
 
 function add(x, y){
-  console.log(x+y)
+  return(x+y)
 }
 
 add(80, 9000)
